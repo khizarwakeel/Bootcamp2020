@@ -1,2 +1,1 @@
-# Bootcamp2020
- This is my Bootcamp2020 first Repo using GitHUB Actions and Surge
+Bootcamp 2020 First Repo using GitHub Actions and Surge
